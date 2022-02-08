@@ -1,6 +1,0 @@
-name: Shadow
-version: ${git.commit.id.abbrev}
-author: Aikar, SRL
-website: https://discord.gg/H8d38sCPyU
-main: net.frozenorb.potpvp.PotPvPSI
-depend: [ qLib ]
